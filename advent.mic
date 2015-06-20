@@ -1,0 +1,9 @@
+.pa 1:=dsk:
+R fortra
+*advent=advent
+.R link
+advent
+/go
+start
+x
+del advent.rel
